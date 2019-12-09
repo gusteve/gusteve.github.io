@@ -30,7 +30,7 @@ body {
 
 @font-face {
 	font-family: testFont;
- 	src: url(AvenirNextLTPro-Regular.otf);
+ 	src: url(arial-black.ttf);
 }
 
 @font-face {
@@ -42,7 +42,7 @@ body {
 	/*padding-top: 2%;*/
 	/*padding-bottom: 2%;*/
 	color:#c13c3c;
-	font-family: arial black;
+	font-family: Arial;
 	/*text-align: center;*/
 	font-size: 1.1em;
 	text-decoration: none;
@@ -52,7 +52,7 @@ body {
 	/*padding-top: 2%;*/
 	/*padding-bottom: 2%;*/
 	color:#cccccc;
-	font-family: Arial black;
+	font-family: testFont;
 	/*text-align: center;*/
 	font-size: 1em;
 	text-decoration: none;
